@@ -96,7 +96,7 @@ const IndexPage = () => (
             My work focused on the frontend design, including wireframing and building to fit those specifications. I also designed the logo for the site.
           </p>
           <p>
-            <button href="https://squadmateappco.netlify.app/">Visit Site</button>
+            <button href="https://www.squadmate.app/">Visit Site</button>
             <button href="https://github.com/brittani-ericksen/SquadMate-Frontend">Github Repo</button>
           </p>
         </div>
