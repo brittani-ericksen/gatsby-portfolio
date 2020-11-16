@@ -18,7 +18,7 @@ export default function Footer() {
       <ul className="copyright">
         <li>&copy; Spectral</li>
         <li>
-          Design: <a href="http://html5up.net">HTML5 UP</a>
+          Design: <a href="http://html5up.net">HTML5 UP | Customized by: Brittani Ericksen</a>
         </li>
       </ul>
     </footer>
