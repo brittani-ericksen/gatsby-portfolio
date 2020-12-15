@@ -24,7 +24,7 @@ const IndexPage = () => (
             My contributions were in the initial database setup and assisting with design throughout.
           </p>
           <p>
-            <button href="https://hashedpantry.com/">Visit Site</button><button href="https://github.com/brittani-ericksen/Hashed">Github Repo</button>
+            <button><a href="https://hashedpantry.com/">Visit Site</a></button><button><a href="https://github.com/brittani-ericksen/Hashed">Github Repo</a></button>
           </p>
           <hr />
 
@@ -39,7 +39,7 @@ const IndexPage = () => (
             My main role was to work with the API to get restaurants by city and cuisine, and small design elements. The background was designed by yours truly.
           </p>
           <p>
-            <button href="https://good-eats-site.netlify.app/">Visit Site</button><button href="https://github.com/brittani-ericksen/good-eats-project">Github Repo</button>
+            <button><a href="https://good-eats-site.netlify.app/">Visit Site</a></button><button><a href="https://github.com/brittani-ericksen/good-eats-project">Github Repo</a></button>
           </p>
         </div>
       </section>

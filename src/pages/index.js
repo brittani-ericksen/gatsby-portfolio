@@ -19,7 +19,10 @@ const IndexPage = () => (
         <a href="https://www.linkedin.com/in/brittaniericksen/"><i class="fab fa-linkedin fa-2x"></i></a>
         <a href="https://github.com/brittani-ericksen"><i class="fab fa-github-square fa-2x"></i></a>
         <p>
-          <button><a href="https://docs.google.com/document/d/1u7e9FA8L8siNEWR4f-afCatDl_euZ5PWN4_cytUcYVo/edit?usp=sharing" target="_blank">View Resume</a></button>
+          <button>
+            <a href="https://docs.google.com/document/d/1u7e9FA8L8siNEWR4f-afCatDl_euZ5PWN4_cytUcYVo/edit?usp=sharing" target="_blank">
+            View Resume</a>
+          </button>
         </p>
         <ul className="actions special">
           <li>
@@ -96,8 +99,12 @@ const IndexPage = () => (
             My work focused on the frontend design, including wireframing and building to fit those specifications. I also designed the logo for the site.
           </p>
           <p>
-            <button href="https://squadmateappco.netlify.app/">Visit Site</button>
-            <button href="https://github.com/brittani-ericksen/SquadMate-Frontend">Github Repo</button>
+            <button>
+              <a href="https://squadmateappco.netlify.app/">Visit Site</a>
+            </button>
+            <button>
+              <a href="https://github.com/brittani-ericksen/SquadMate-Frontend">Github Repo</a>
+            </button>
           </p>
         </div>
       </section>
@@ -119,8 +126,12 @@ const IndexPage = () => (
             Built with React, using Redux to control state. Styling was done with styled components.
           </p>
           <p>
-            <button href="https://seanometer.netlify.app/">Visit Site</button>
-            <button href="https://github.com/brittani-ericksen/sean-o-meter">Github Repo</button>
+            <button>
+              <a href="https://seanometer.netlify.app/">Visit Site</a>
+            </button>
+            <button>
+              <a href="https://github.com/brittani-ericksen/sean-o-meter">Github Repo</a>
+            </button>
           </p>
         </div>
       </section>
@@ -145,7 +156,9 @@ const IndexPage = () => (
             Video playthrough coming soon!
           </p>
           <p>
-            <button href="https://github.com/brittani-ericksen/termina-kombat">Github Repo</button>
+            <button>
+              <a href="https://github.com/brittani-ericksen/terminal-kombat">Github Repo</a>
+            </button>
           </p>
         </div>
       </section>
