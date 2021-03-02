@@ -93,7 +93,7 @@ const IndexPage = () => (
             Our group set out to solve a problem that many coaches to young individuals may have - keeping contact and emergency information all together in one place. We created a coach's toolbox to allow just that. Members can update their information at any time and coaches can see and print this information as needed.
           </p>
           <p>
-            Built with the MERN stack: MongoDB, Express, React, Node.js and styled with a combination of styled coponents and Material UI.
+            Built with the MERN stack: MongoDB, Express, React, Node.js and styled with a combination of styled components and Material UI.
           </p>
           <p>
             My work focused on the frontend design, including wireframing and building to fit those specifications. I also designed the logo for the site.
