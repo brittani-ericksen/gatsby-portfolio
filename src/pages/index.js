@@ -100,9 +100,6 @@ const IndexPage = () => (
           </p>
           <p>
             <button>
-              <a href="https://squadmateappco.netlify.app/">Visit Site</a>
-            </button>
-            <button>
               <a href="https://github.com/brittani-ericksen/SquadMate-Frontend">Github Repo</a>
             </button>
           </p>
