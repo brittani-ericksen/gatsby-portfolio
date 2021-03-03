@@ -99,6 +99,9 @@ const IndexPage = () => (
             My work focused on the frontend design, including wireframing and building to fit those specifications. I also designed the logo for the site.
           </p>
           <p>
+	    <button>
+              <a href="https://squadmate.app/">Visit Site</a>
+            </button>
             <button>
               <a href="https://github.com/brittani-ericksen/SquadMate-Frontend">Github Repo</a>
             </button>
